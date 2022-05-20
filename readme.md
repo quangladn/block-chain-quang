@@ -1,24 +1,5 @@
 <h1 style="text-align:center">install: npm i block-chain-quang</h1>
 
-<style>
-    * {
-        font-family:'fira code'
-    }
-    .box {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        }
-
-    .box table {
-        width: 350px;
-        height: 15px;
-    }
-    td {
-        text-align: center;
-    }
-</style>
-
 <div class = "box">
     <table>
         <tr>
