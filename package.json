@@ -1,0 +1,11 @@
+{
+  "name": "block-chain-quang",
+  "version": "1.2.5",
+  "description": "",
+  "main": "index.js",
+  "author": "@quangladn",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
