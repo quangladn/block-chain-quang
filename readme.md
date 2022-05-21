@@ -23,19 +23,19 @@
 <div>
     <h2>add block</h2>
     <h3>
-        const app = require('block-chain-quang')\n
-        const user = new app.blockChain(difficulty)\n
-        user.addBlock(data)\n
-        console.log(user.chain)\n
-    </h3>
+        const app = require('block-chain-quang')<br> 
+        const user = new app.blockChain(difficulty)<br> 
+        user.addBlock(data)<br> 
+        console.log(user.chain)<br> 
+    </h3><br> 
 </div>
 <div>
-    <h2>is vaild</h2>
+    <h2>is vaild</h2><br> 
     <h3>
-        console.log(user.chain)\n
-        console.log(use.isVaild())\n
-        if data don't convert => true\n \n
-        user.chain[1].data = dataConverted \n
-        console.log(use.isVaild()) => false \n
+        console.log(user.chain) <br> 
+        console.log(use.isVaild())<br> 
+        if data don't convert => true<br> 
+        user.chain[1].data = dataConverted<br> 
+        console.log(use.isVaild()) => false<br> 
     </h3> 
 </div>
